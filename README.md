@@ -1,4 +1,4 @@
-## 源库master分支隐藏，tree还可继续用。（但先clone保存一下备个人使用
+## 源库master分支隐藏，tree还可继续用 [分支链接](https://github.com/ACL4SSR/ACL4SSR/tree/master "分支链接")。（但先clone保存一下备个人使用
 
 --------
 
